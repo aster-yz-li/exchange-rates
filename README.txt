@@ -1,3 +1,5 @@
+* This was my "Capstone: Advanced Java Topics & Machine Learning" (12th grade) final project. *
+
 Data Methods for the Analysis of Currency Exchange Rates
 Author: Aster Li
 
