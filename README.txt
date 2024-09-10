@@ -1,5 +1,4 @@
-* This was my "Capstone: Advanced Java Topics & Machine Learning" (12th grade) final project. Being much more experienced now,
-I am able to optimize a lot of the code but have uploaded the project as-is for the sake of time and authenticity. *
+* This was my "Capstone: Advanced Java Topics & Machine Learning" (12th grade) final project. Being much more experienced now, I am able to optimize a lot of the code but have uploaded the project as-is for the sake of time and authenticity. Please enjoy! *
 
 ########################################################
 
